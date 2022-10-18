@@ -10,10 +10,12 @@ Very Stylish & functional calculator design
 - Attractive design & Colors
 - Fully functional
 - Beautiful hover Effect on buttons
+- Beautiful shadow design
 
 
 ## 🛠 Using technologies
-Javascript(Es6), HTML5, CSS3...
+
+Javascript(Es6), HTML5, CSS3 ...
 
 
 ## Demo
